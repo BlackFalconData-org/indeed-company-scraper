@@ -185,6 +185,9 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 
 ## Related products by Black Falcon Data
 
+- [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-scraper?fpr=1h3gvi) — Indeed job listings: title, company, salary, apply URL and full descriptions across 62 markets
+- [Indeed Salary Scraper](https://apify.com/blackfalcondata/indeed-salary-scraper?fpr=1h3gvi) — Indeed pay data: median/min/max by job title and location, top-paying companies and cities
+
 [Browse all Black Falcon Data actors →](https://apify.com/blackfalcondata?fpr=1h3gvi)
 
 ---
